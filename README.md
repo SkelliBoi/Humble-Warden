@@ -84,9 +84,9 @@ This final step is just to run a fix for DLC items.
 
 2. It will ask you to press any button. Do so (spacebar is fine).
 
-## Unlcok LAA for the .exe file
+## Unlock LAA for the launcher
 
-The .exe file for the base game isn't large address aware. The modlist should automatically replace the .exe file with a working one, but just in case it doesn't work, I would recommend using the following program <https://www.techpowerup.com/forums/threads/large-address-aware.112556/> to update the launcher ("Just a Humble Warden\Stock Game\bin_ship\daorigins.exe").
+The launcher for the base game isn't large address aware. The modlist should automatically replace the .exe file with a working one, but just in case it doesn't work, I would recommend using the following program <https://www.techpowerup.com/forums/threads/large-address-aware.112556/> to update the launcher ("Just a Humble Warden\Stock Game\bin_ship\daorigins.exe").
 
 ## Starting the game
 
