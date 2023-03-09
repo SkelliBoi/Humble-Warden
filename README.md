@@ -88,6 +88,18 @@ This final step is just to run a fix for DLC items.
 
 The launcher for the base game isn't large address aware. The modlist should automatically replace the .exe file with a working one, but just in case it doesn't work, I would recommend using the following program <https://www.techpowerup.com/forums/threads/large-address-aware.112556/> to update the launcher ("Just a Humble Warden\Stock Game\bin_ship\daorigins.exe").
 
+## Optional Reshade
+
+The installation comes included with SweetFX Reshade presets. These won't do anything by themselves, so if you don't want Reshade you can just leave these steps alone. Maybe that's recommended since I haven't tested a lot with Reshade yet. If you want to enable it you must install Reshade manually in the following way:
+
+1. Download Reshade 3.4.0 from the following link: https://www.mediafire.com/file/nbpgtocu66s5et6/ReShade_Setup_3.4.0.exe/file
+
+2. Launch it and click on Select Game.
+
+3. Navigate to the launcher ("Just a Humble Warden\Stock Game\bin_ship\daorigins.exe").
+
+4. Select the Direct3D 9 option. Once it is finished you can close it.
+
 ## Starting the game
 
 Once all of the previous steps are done, go to the dropdown list at the top right and select "Dragon Age: Origins" to start the game. The game must always be run through here, not through Steam.
