@@ -7,21 +7,21 @@
     "maintainers": [
       "github/Humble-Warden"
     ],
-    "game": "skyrimspecialedition",
+    "game": "dragonageorigins",
     "tags": [
       "testing",
-      "<any tags you want in the UI, each in its own string"
+      "Unofficial"
     ],
     "nsfw": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
-      "readme": "<link to your readme for your modlist>",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "machineURL",
-      "discordURL": "<your discord link here>"
+      "image": "https://raw.githubusercontent.com/SkelliBoi/Humble-Warden/main/Thumbnail.png",
+      "readme": "https://raw.githubusercontent.com/SkelliBoi/Humble-Warden/main/README.md",
+      "download": "",
+      "machineURL": "humble_warden",
+      "discordURL": ""
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
