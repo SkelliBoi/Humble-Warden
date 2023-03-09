@@ -1,10 +1,10 @@
 # Just a Humble Warden
 
-The Just a Humble Warden modlist is my attempt to create a Dragon Age: Origins modlist using Wabbajack. If yo don't know what Wabbajack is, you should check it out here: <https://www.wabbajack.org/#/>
+The Just a Humble Warden modlist is my attempt to create a Dragon Age: Origins modlist using Wabbajack. If you don't know what Wabbajack is, you should check it out here: <https://www.wabbajack.org/#/>
 
-The goal of this modlist is to create a version of the game that plays smoothly (without encountering any annoying bugs), has some graphical changes and improvements, and adds some changes to improve the quality of life. Basically to create the ideal version of the game that I would like to play.
+The goal of this modlist is to create a version of the game that plays smoothly (without encountering any annoying bugs), has some graphical changes and improvements, and adds some changes to improve the quality of life. Basically, to create the ideal version of the game that I would like to play.
 
-The modlist was made using the Steam version of Dragon Age: Origins - Ultimate Edition.
+The modlist was made using the Steam version of Dragon Age: Origins - Ultimate Edition, and I can not guarantee any other version will work.
 
 The installation of this mod list requires a total of about 61GB (this could likely be reduced in the fututre as I learn more of the features of Wabberjack). ~24GB for the base game, ~30GB for the modlist, and ~8GB for the downloads. The download itself should take about 20 minutes, depending on your internet speed.
 
@@ -12,15 +12,15 @@ The installation of this mod list requires a total of about 61GB (this could lik
 
 You will need a clean installation of the game.
 
-1. First, uninstall the game from Steam. Make sure that your installation folder is completely empty. Delete any files still left in the install folder (steamapps/common/Dragon Age Ultimate Edition).
+1. First, uninstall the game from Steam. Make sure that your installation folder is completely empty. Delete any files still left in the install folder ("steamapps/common/Dragon Age Ultimate Edition").
 
 2. Install Dragon Age: Origins - Ultimate Edition. You will need the most recent version of the game, with all of the DLC's available.
 
 3. Run the game once, and choose "Configure". In the Video Settings, choose your settings (16:9, 1920x1080 recommended). 
 
-4. Go to the main menu, check the "Other Campaigns" option, and exit. (If the "other campaigns" button is darkened, exit the game and navigate to steamapps\common\Dragon Age Ultimate Edition\redist, and run DAOU_UpdateAddinsXML_Steam.exe.)
+4. Go to the main menu, check the "Other Campaigns" option, and exit. (If the "other campaigns" button is darkened, exit the game and navigate to "steamapps\common\Dragon Age Ultimate Edition\redist", and run "DAOU_UpdateAddinsXML_Steam.exe".)
 
-## Install Just a Humble Warden via Wabbajack
+## Install "Just a Humble Warden" via Wabbajack
 
 Now, you must install the modlist using Wabbajack.
 
@@ -30,11 +30,11 @@ Now, you must install the modlist using Wabbajack.
 
 3. Open Wabbajack and click on "Browse Modlists" or "Install From Disk" depending on how you want to install it.
 
-3. If using "Browse Modlists" search for "Just a Humble Warden" and click on the little down arrow to download the list, and once that's done, click on the play button. If using "Install From Disk" just select the file from you computer.
+3. If using "Browse Modlists" search for "Just a Humble Warden" and click on the little down arrow to download the list, and once that's done, click on the play button. If using "Install From Disk" just select the file from your computer.
 
-4. For the installation folder choose the empty folder that was created in step 2.
+4. As the installation folder, choose the empty folder that was created in step 2.
 
-5. Downloads will auto-select the right location for you, but you can change that location if you want. 
+5. Downloads will be auto-selected for you, but you can change that location if you want. 
 
 6. Click the "play" button to install the modlist.
 
@@ -48,7 +48,7 @@ Unfortunately, not everything can be done automatically using Wabbajack, so a fe
 
 1. Inside ModOrganizer, go to the dropdown list at the top right and select "DAUpdater". Then press the Run button next to it. This should launch "DAUpdater.exe".
 
-2. Inside the program, choose "Select DAZIPs", and find the "DaZips" folder. It should automatically start there, but if it does not, look for the folder inside the modlist installation folder. 
+2. Inside the program, choose "Select DAZIPs", and find the "DaZips" folder. It should automatically start there, but if it does not, look for the folder inside the modlist installation folder ("Just a Humble Warden\DaZips"). 
 
 3. Select all of the files inside the folder. They should appear in DAUpdater.
 
@@ -83,6 +83,10 @@ This final step is just to run a fix for DLC items.
 1. Inside ModOrganizer, go to the dropdown list at the top right and select "FIX_DLC". Then press the Run button next to it. This should open the command prompt.
 
 2. It will ask you to press any button. Do so (spacebar is fine).
+
+## Unlcok LAA for the .exe file
+
+The .exe file for the base game isn't large address aware. The modlist should automatically replace the .exe file with a working one, but just in case it doesn't work, I would recommend using the following program <https://ntcore.com/?page_id=371> to update the launcher ("Just a Humble Warden\Stock Game\bin_ship\daorigins.exe").
 
 ## Starting the game
 
