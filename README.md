@@ -74,7 +74,7 @@ Many mods come with a CharGenMorphCFG file, but the game can only use one. There
 
 6. Find the chargenmorphcfg.xml file inside the mods folder inside your installation folder ("Just a Humble Warden\mods\chargenmorphcfg.xml"). It should be the only loose file in there.
 
-7. Move the file to "Just a Humble Warden\Stock Game\packages\core\override\". If the override folder doesn't exist yet, create it.
+7. Move the file to "Just a Humble Warden\overwrite\". If the overwrite folder doesn't exist yet, create it.
 
 ## Run FIX_DLC
 
@@ -94,4 +94,4 @@ Once all of the previous steps are done, go to the dropdown list at the top righ
 
 ## Optional Mods
 
-There are some optional mods that you can turn off if you don't want them (Skip the Fade, Skip Ostagar). Just uncheck the checkmark next to them to turn them off.
+There are some optional mods that you can turn off if you don't want them (Skip the Fade, Skip Ostagar, etc). Just uncheck the checkmark next to them to turn them off.
