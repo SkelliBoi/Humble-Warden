@@ -14,13 +14,13 @@ The installation of this mod list requires a total of about 62GB (this could lik
 
 You will need a clean installation of the game.
 
-1. First, uninstall the game from Steam. Make sure that your installation folder is completely empty. Delete any files still left in the install folder ("steamapps/common/Dragon Age Ultimate Edition"). Also delete any files inside your documents folder for the game (Documents/BioWare/Dragon Age/). SAVE THE CURRENT FILES IN THERE SOMEWHERE ELSE AS A BACKUP IF YOU DON'T WANT TO LOSE THOSE SAVES!
+1. First, uninstall the game from Steam. Make sure that your installation folder is completely empty. Delete any files still left in the install folder ("Steam/steamapps/common/Dragon Age Ultimate Edition"). Also delete any files inside your documents folder for the game (Documents/BioWare/Dragon Age/). SAVE THE CURRENT FILES IN THERE SOMEWHERE ELSE AS A BACKUP IF YOU DON'T WANT TO LOSE THOSE SAVES!
 
 2. Install Dragon Age: Origins - Ultimate Edition. You will need the most recent version of the game, with all of the DLC's available.
 
 3. Run the game once, and choose "Configure". In the Video Settings, choose your settings (16:9, 1920x1080 recommended). 
 
-4. Go to the main menu, check the "Other Campaigns" option, and exit. (If the "other campaigns" button is darkened or doesn't include all DLCs, exit the game and navigate to "steamapps\common\Dragon Age Ultimate Edition\redist", and run "DAOU_UpdateAddinsXML_Steam.exe".)
+4. Go to the main menu, check the "Other Campaigns" option, and exit. (If the "other campaigns" button is darkened or doesn't include all DLCs, exit the game and navigate to "Steam/steamapps/common/Dragon Age Ultimate Edition/redist", and run "DAOU_UpdateAddinsXML_Steam.exe".)
 
 ## Install "Just a Humble Warden" via Wabbajack
 
@@ -50,7 +50,7 @@ Unfortunately, not everything can be done automatically using Wabbajack, so a fe
 
 1. Inside ModOrganizer, go to the dropdown list at the top right and select "DAUpdater". Then press the Run button next to it. This should launch "DAUpdater.exe".
 
-2. Inside the program, choose "Select DAZIPs", and find the "DaZips" folder. It should automatically start there, but if it does not, look for the folder inside the modlist installation folder ("Just a Humble Warden\DaZips"). 
+2. Inside the program, choose "Select DAZIPs", and find the "DaZips" folder. It should automatically start there, but if it does not, look for the folder inside the modlist installation folder ("Just a Humble Warden/DaZips"). 
 
 3. Select all of the files inside the folder. They should appear in DAUpdater.
 
@@ -60,26 +60,6 @@ Unfortunately, not everything can be done automatically using Wabbajack, so a fe
 
 For me it works if I select all files at once, but if it doesn't you might need to do it in steps.
 
-## ~~Merge CharGenMorphCFG files~~
-
-**This step is not necessary anymore! It is done automatically!**
-
-~~Many mods come with a CharGenMorphCFG file, but the game can only use one. Therefore, these files need to be merged.~~
-
-~~1. Inside ModOrganizer, go to the dropdown list at the top right and select "CharGenMorph Compiler". Then press the Run button next to it. This should launch "CharGenMorph Compiler".~~
-
-~~2. It will ask what game you want to modify. Select Dragon Age: Origins.~~
-
-~~3. The paths should already be set up, but just in case, make sure in the "Path Configuration" tab, the path under "Dragon Age Paths" is set to "..\mods".~~
-
-~~4. Go to the compiler tab and click the compile button at the bottom of the screen. Wait for it to finish, it will give a pop-up.~~
-
-~~5. On the References tab click the Remove Bad References button at the bottom of the screen. Once this is finished you can close the program.~~
-
-~~6. Find the chargenmorphcfg.xml file inside the mods folder inside your installation folder ("Just a Humble Warden\mods\chargenmorphcfg.xml"). It should be the only loose file in there.~~
-
-~~7. Move the file to "Just a Humble Warden\overwrite\". If the overwrite folder doesn't exist yet, create it.~~
-
 ## Run FIX_DLC
 
 This final step is just to run a fix for DLC items.
@@ -88,11 +68,9 @@ This final step is just to run a fix for DLC items.
 
 2. It will ask you to press any button. Do so (spacebar is fine).
 
-## ~~Unlock LAA for the launcher~~
+## Move Files from "Game Folder Files"
 
-**This step is not necessary anymore! It is done automatically!**
-
-~~The launcher for the base game isn't large address aware. The modlist should automatically replace the .exe file with a working one, but just in case it doesn't work, I would recommend using the following program <https://www.techpowerup.com/forums/threads/large-address-aware.112556/> to update the launcher ("Just a Humble Warden\Stock Game\bin_ship\daorigins.exe"). Until I can confirm that it actually automatically does this during the Wabbajack installation this might be necessary.~~
+There are some files in the folder called "Game Folder Files" that you need to move to the location of your game installation. Just copy everything inside the folder and place it in your game installation folder (Steam/steamapps/common/Dragon Age Ultimate Edition/). If it asks to overwrite click YES. Make especially sure that the DAOrigins.exe gets replaced.
 
 ## Optional Reshade
 
@@ -104,7 +82,7 @@ If you do like Reshade, I would recommend upgrading the Reshade installation to 
 
 2. Launch it and click on Select Game.
 
-3. Navigate to the launcher ("Just a Humble Warden\Stock Game\bin_ship\daorigins.exe").
+3. Navigate to the launcher ("Steam/steamapps/common/Dragon Age Ultimate Edition/Stock Game/bin_ship/DAOrigins.exe").
 
 4. Select the Direct3D 9 option. Once it is finished you can close it.
 
