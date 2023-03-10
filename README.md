@@ -60,23 +60,23 @@ Unfortunately, not everything can be done automatically using Wabbajack, so a fe
 
 For me it works if I select all files at once, but if it doesn't you might need to do it in steps.
 
-~~## Merge CharGenMorphCFG files
+~~## Merge CharGenMorphCFG files~~
 
-~~Many mods come with a CharGenMorphCFG file, but the game can only use one. Therefore, these files need to be merged.
+~~Many mods come with a CharGenMorphCFG file, but the game can only use one. Therefore, these files need to be merged.~~
 
-~~1. Inside ModOrganizer, go to the dropdown list at the top right and select "CharGenMorph Compiler". Then press the Run button next to it. This should launch "CharGenMorph Compiler".
+~~1. Inside ModOrganizer, go to the dropdown list at the top right and select "CharGenMorph Compiler". Then press the Run button next to it. This should launch "CharGenMorph Compiler".~~
 
-~~2. It will ask what game you want to modify. Select Dragon Age: Origins.
+~~2. It will ask what game you want to modify. Select Dragon Age: Origins.~~
 
-~~3. The paths should already be set up, but just in case, make sure in the "Path Configuration" tab, the path under "Dragon Age Paths" is set to "..\mods".
+~~3. The paths should already be set up, but just in case, make sure in the "Path Configuration" tab, the path under "Dragon Age Paths" is set to "..\mods".~~
 
-~~4. Go to the compiler tab and click the compile button at the bottom of the screen. Wait for it to finish, it will give a pop-up.
+~~4. Go to the compiler tab and click the compile button at the bottom of the screen. Wait for it to finish, it will give a pop-up.~~
 
-~~5. On the References tab click the Remove Bad References button at the bottom of the screen. Once this is finished you can close the program.
+~~5. On the References tab click the Remove Bad References button at the bottom of the screen. Once this is finished you can close the program.~~
 
-~~6. Find the chargenmorphcfg.xml file inside the mods folder inside your installation folder ("Just a Humble Warden\mods\chargenmorphcfg.xml"). It should be the only loose file in there.
+~~6. Find the chargenmorphcfg.xml file inside the mods folder inside your installation folder ("Just a Humble Warden\mods\chargenmorphcfg.xml"). It should be the only loose file in there.~~
 
-~~7. Move the file to "Just a Humble Warden\overwrite\". If the overwrite folder doesn't exist yet, create it.
+~~7. Move the file to "Just a Humble Warden\overwrite\". If the overwrite folder doesn't exist yet, create it.~~
 
 This step is not necessary anymore! It is done automatically!
 
@@ -88,9 +88,9 @@ This final step is just to run a fix for DLC items.
 
 2. It will ask you to press any button. Do so (spacebar is fine).
 
-~~## Unlock LAA for the launcher
+~~## Unlock LAA for the launcher~~
 
-~~The launcher for the base game isn't large address aware. The modlist should automatically replace the .exe file with a working one, but just in case it doesn't work, I would recommend using the following program <https://www.techpowerup.com/forums/threads/large-address-aware.112556/> to update the launcher ("Just a Humble Warden\Stock Game\bin_ship\daorigins.exe"). Until I can confirm that it actually automatically does this during the Wabbajack installation this might be necessary.
+~~The launcher for the base game isn't large address aware. The modlist should automatically replace the .exe file with a working one, but just in case it doesn't work, I would recommend using the following program <https://www.techpowerup.com/forums/threads/large-address-aware.112556/> to update the launcher ("Just a Humble Warden\Stock Game\bin_ship\daorigins.exe"). Until I can confirm that it actually automatically does this during the Wabbajack installation this might be necessary.~~
 
 This step is not necessary anymore! It is done automatically!
 
