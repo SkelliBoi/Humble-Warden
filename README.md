@@ -4,6 +4,8 @@ The Just a Humble Warden modlist is my attempt to create a Dragon Age: Origins m
 
 The goal of this modlist is to create a version of the game that plays smoothly (without encountering any annoying bugs), has some graphical changes and improvements, and adds some changes to improve the quality of life. Basically, to create the ideal version of the game that I would like to play.
 
+THIS MODLIST HAS NOT YET BEEN EXTENSIVELY TESTED! YOU COULD ENCOUNTER BUGS USING IT SO BE AWARE!
+
 The modlist was made using the Steam version of Dragon Age: Origins - Ultimate Edition, and I can not guarantee any other version will work.
 
 The installation of this mod list requires a total of about 61GB (this could likely be reduced in the future as I learn more of the features of Wabberjack). ~24GB for the base game, ~30GB for the modlist, and ~8GB for the downloads. The download itself should take about 20 minutes, depending on your internet speed.
