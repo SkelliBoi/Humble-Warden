@@ -6,7 +6,7 @@ The goal of this modlist is to create a version of the game that plays smoothly 
 
 The modlist was made using the Steam version of Dragon Age: Origins - Ultimate Edition, and I can not guarantee any other version will work.
 
-The installation of this mod list requires a total of about 61GB (this could likely be reduced in the fututre as I learn more of the features of Wabberjack). ~24GB for the base game, ~30GB for the modlist, and ~8GB for the downloads. The download itself should take about 20 minutes, depending on your internet speed.
+The installation of this mod list requires a total of about 61GB (this could likely be reduced in the future as I learn more of the features of Wabberjack). ~24GB for the base game, ~30GB for the modlist, and ~8GB for the downloads. The download itself should take about 20 minutes, depending on your internet speed.
 
 ## Install Dragon Age: Origins - Ultimate Edition
 
