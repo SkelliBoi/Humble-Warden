@@ -18,7 +18,7 @@ You will need a clean installation of the game.
 
 3. Run the game once, and choose "Configure". In the Video Settings, choose your settings (16:9, 1920x1080 recommended). 
 
-4. Go to the main menu, check the "Other Campaigns" option, and exit. (If the "other campaigns" button is darkened, exit the game and navigate to "steamapps\common\Dragon Age Ultimate Edition\redist", and run "DAOU_UpdateAddinsXML_Steam.exe".)
+4. Go to the main menu, check the "Other Campaigns" option, and exit. (If the "other campaigns" button is darkened or doesn't include all DLCs, exit the game and navigate to "steamapps\common\Dragon Age Ultimate Edition\redist", and run "DAOU_UpdateAddinsXML_Steam.exe".)
 
 ## Install "Just a Humble Warden" via Wabbajack
 
