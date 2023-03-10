@@ -92,7 +92,9 @@ The launcher for the base game isn't large address aware. The modlist should aut
 
 ## Optional Reshade
 
-The installation comes included with SweetFX Reshade presets. These won't do anything by themselves, so if you don't want Reshade you can just leave these steps alone. Maybe that's recommended since I haven't tested a lot with Reshade yet. If you want to enable it you must install Reshade manually in the following way:
+The installation comes included with SweetFX Reshade presets. This is a relatively old version of Reshade but is still pretty decent. In-game you can switch the Reshade on and oof using the "SCROLL LOCK" button on your keyboard. So, if you don't want Reshade, you can just turn it off that way. 
+
+If you do like Reshade, I would recommend upgrading the Reshade installation to a newer version. You will have to install version 3.4.0 manually in the following way:
 
 1. Download Reshade 3.4.0 from the following link: https://www.mediafire.com/file/nbpgtocu66s5et6/ReShade_Setup_3.4.0.exe/file
 
@@ -101,6 +103,8 @@ The installation comes included with SweetFX Reshade presets. These won't do any
 3. Navigate to the launcher ("Just a Humble Warden\Stock Game\bin_ship\daorigins.exe").
 
 4. Select the Direct3D 9 option. Once it is finished you can close it.
+
+In this version of Reshade you can open the menu using "shift + F2" and turn the effects on or off there.
 
 ## Starting the game
 
