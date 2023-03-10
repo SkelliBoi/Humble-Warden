@@ -14,7 +14,7 @@ The installation of this mod list requires a total of about 62GB (this could lik
 
 You will need a clean installation of the game.
 
-1. First, uninstall the game from Steam. Make sure that your installation folder is completely empty. Delete any files still left in the install folder ("steamapps/common/Dragon Age Ultimate Edition").
+1. First, uninstall the game from Steam. Make sure that your installation folder is completely empty. Delete any files still left in the install folder ("steamapps/common/Dragon Age Ultimate Edition"). Also delete any files inside your documents folder for the game (Documents/BioWare/Dragon Age/). SAVE THE CURRENT FILES IN THERE SOMEWHERE ELSE AS A BACKUP IF YOU DON'T WANT TO LOSE THOSE SAVES!
 
 2. Install Dragon Age: Origins - Ultimate Edition. You will need the most recent version of the game, with all of the DLC's available.
 
