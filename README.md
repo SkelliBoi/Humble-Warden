@@ -60,7 +60,7 @@ Unfortunately, not everything can be done automatically using Wabbajack, so a fe
 
 For me it works if I select all files at once, but if it doesn't you might need to do it in steps.
 
-~~## Merge CharGenMorphCFG files~~
+## ~~Merge CharGenMorphCFG files~~
 
 ~~Many mods come with a CharGenMorphCFG file, but the game can only use one. Therefore, these files need to be merged.~~
 
@@ -88,7 +88,7 @@ This final step is just to run a fix for DLC items.
 
 2. It will ask you to press any button. Do so (spacebar is fine).
 
-~~## Unlock LAA for the launcher~~
+## ~~Unlock LAA for the launcher~~
 
 ~~The launcher for the base game isn't large address aware. The modlist should automatically replace the .exe file with a working one, but just in case it doesn't work, I would recommend using the following program <https://www.techpowerup.com/forums/threads/large-address-aware.112556/> to update the launcher ("Just a Humble Warden\Stock Game\bin_ship\daorigins.exe"). Until I can confirm that it actually automatically does this during the Wabbajack installation this might be necessary.~~
 
