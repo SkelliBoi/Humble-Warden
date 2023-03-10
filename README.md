@@ -8,7 +8,7 @@ THIS MODLIST HAS NOT YET BEEN EXTENSIVELY TESTED! YOU COULD ENCOUNTER BUGS USING
 
 The modlist was made using the Steam version of Dragon Age: Origins - Ultimate Edition, and I can not guarantee any other version will work.
 
-The installation of this mod list requires a total of about 62GB (this could likely be reduced in the future as I learn more of the features of Wabberjack). ~24GB for the base game, ~31GB for the modlist, and ~8GB for the downloads. The download itself should take about 20 minutes, depending on your internet speed.
+The installation of this mod list requires a total of about 62GB (this could likely be reduced in the future as I learn more of the features of Wabberjack). ~24GB for the base game, ~11GB for the modlist, and ~8GB for the downloads. The download itself should take about 20 minutes, depending on your internet speed.
 
 ## Install Dragon Age: Origins - Ultimate Edition
 
@@ -87,6 +87,8 @@ If you do like Reshade, I would recommend upgrading the Reshade installation to 
 4. Select the Direct3D 9 option. Once it is finished you can close it.
 
 In this version of Reshade you can open the menu using "shift + F2" and turn the effects on or off there.
+
+Reshade can be quite demanding so if the game starts lagging, I would recommend turning it off.
 
 ## Starting the game
 
