@@ -99,6 +99,8 @@ If you do like Reshade, I would recommend upgrading the Reshade installation to 
 
 In this version of Reshade you can open the menu using "shift + F2" and turn the effects on or off there.
 
+You can of course also install the newest version of Reshade and use your own presets, but that's up to you.
+
 Reshade can be quite demanding so if the game starts lagging, I would recommend turning it off.
 
 ## Starting the game
