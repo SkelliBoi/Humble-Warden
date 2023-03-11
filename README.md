@@ -2,13 +2,24 @@
 
 The Just a Humble Warden modlist is my attempt to create a Dragon Age: Origins modlist using Wabbajack. If you don't know what Wabbajack is, you should check it out here: <https://www.wabbajack.org/#/>
 
-The goal of this modlist is to create a version of the game that plays smoothly (without encountering any annoying bugs), has some graphical changes and improvements, and adds some changes to improve the quality of life. Basically, to create the ideal version of the game that I would like to play.
+The goal of this modlist is to create a version of the game that plays smoothly (without encountering any annoying bugs), has some graphical and texture improvements, and adds some changes to improve the quality of life. Basically, to create the ideal version of the game that I would like to play.
 
 THIS MODLIST HAS NOT YET BEEN EXTENSIVELY TESTED! YOU COULD ENCOUNTER BUGS USING IT SO BE AWARE!
 
 The modlist was made using the Steam version of Dragon Age: Origins - Ultimate Edition, and I can not guarantee any other version will work.
 
 The installation of this mod list requires a total of about 43GB (this could likely be reduced in the future as I learn more of the features of Wabberjack). ~24GB for the base game, ~11GB for the modlist, and ~8GB for the downloads. The download itself should take about 20 minutes, depending on your internet speed.
+
+## Important Mods
+
+Here I will note some important mods that change the Gameplay, that you should know how to use when you play:
+
+* Extra Dog Slot - You will receive an item in your inventory called "Dog Whistle". Use this to call your Dog as an extra companion to your party. (Note that this mod could potentially have some issues with certain quests. If you can't move to somewhere on your map, remove the Dog from your party and try again.)
+* Lock Bash - If you don't have anyone in the party who can pick a specific lock, your character will try to bash the lock instead. Items could get lost when breaking a chest. If you do have a party member who can unlock a chest or door, they will automatically do so.
+* No Helmet Hack - Each party member will receive a helmet rulebook in their inventory. You can use this item to switch whether you want their helmet to be visible or not in-game.
+* Base Chest - There is now a storage chest in your party camp to store items in.
+* Respecification - This mod provides skills for each character to respec the six primary attributes as well as the classes and abilities. The skills for this can be found with the character's other skills.
+* Advanced Tactics - Allows for more advanced tactics options, and adds a skill for your controlled character to be controlled for you, like your party members.
 
 ## Install Dragon Age: Origins - Ultimate Edition
 
