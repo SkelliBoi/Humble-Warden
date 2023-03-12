@@ -3,6 +3,9 @@
 ## 03/12/2023 - 0.1.1
 * Fixed a bug causing bugged item drops from boss creatures
 * Fixed a bug causing certain headwear to show up invisible
+* Reverted the Morrigan Overhaul
+* Added visible font for Console
+* Increased cutscene quality to 4K 60fps
 
 These changes don't require a new save.
 
