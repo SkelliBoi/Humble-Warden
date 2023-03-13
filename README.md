@@ -2,7 +2,7 @@
 
 The Just a Humble Warden modlist is my attempt to create a Dragon Age: Origins modlist using Wabbajack. If you don't know what Wabbajack is, you should check it out here: <https://www.wabbajack.org/#/>
 
-The goal of this modlist is to create a version of the game that plays smoothly (without encountering any annoying bugs), has some graphical and texture improvements, and adds some changes to improve the quality of life. Basically, to create the ideal version of the game that I would like to play.
+The goal of this modlist is to create a complete, bug-free experience with graphical improvements, quality of life changes, and fixed contuinity errors. The real Ultimate Edition.
 
 THIS MODLIST HAS NOT YET BEEN EXTENSIVELY TESTED! YOU COULD ENCOUNTER BUGS USING IT SO BE AWARE!
 
