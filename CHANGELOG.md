@@ -7,6 +7,7 @@
 * Added more character cutomization options
 * Changed the visuals of bows to have strings
 * Removed detailed tooltips
+* Fixed an error with the installation of the new launcher
 
 ## 03/12/2023 - 0.1.1
 * Fixed a bug causing bugged item drops from boss creatures
