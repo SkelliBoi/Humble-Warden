@@ -4,7 +4,7 @@
 * Removed a bunch of redundant bug-fixes
 * Added a few fixes for continuity (ghost elves, Aldous, tower guard)
 * Updated the look of Sten, Morrigan and Leliana
-* Added more character cutomization options
+* Added more character customization options
 * Changed the visuals of bows to have strings
 * Removed detailed tooltips
 * Fixed an error with the installation of the new launcher
