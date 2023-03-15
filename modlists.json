@@ -19,19 +19,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/SkelliBoi/Humble-Warden/main/Thumbnail.png",
       "readme": "https://raw.githubusercontent.com/SkelliBoi/Humble-Warden/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Just%20a%20Humble%20Warden.wabbajack_e13ae624-a19b-4fc9-8448-c31cb81ac187",
+      "download": "https://authored-files.wabbajack.org/Just%20a%20Humble%20Warden%200.1.2.wabbajack_d44a9863-039b-4a4a-a557-92f766ab7786",
       "machineURL": "humble_warden",
       "discordURL": "https://discord.gg/UkWFY6QEue"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "nUU5QBApoYE=",
-      "Size": 3971994,
-      "NumberOfArchives": 165,
-      "SizeOfArchives": 8684957392,
-      "NumberOfInstalledFiles": 13615,
-      "SizeOfInstalledFiles": 11932679419
+      "Hash": "00Ka95W6E4k=",
+      "Size": 3945975,
+      "NumberOfArchives": 171,
+      "SizeOfArchives": 29546382106,
+      "NumberOfInstalledFiles": 14036,
+      "SizeOfInstalledFiles": 31868281656
     },
-    "version": "0.1.0"
+    "version": "0.1.2"
   }
 ]
