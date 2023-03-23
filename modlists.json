@@ -7,7 +7,7 @@
     "maintainers": [
       "github/SkelliBoi"
     ],
-    "game": "dragonage",
+    "game": "dragonageorigins",
     "tags": [
       "testing",
       "Unofficial"
@@ -19,19 +19,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/SkelliBoi/Humble-Warden/main/Thumbnail.png",
       "readme": "https://raw.githubusercontent.com/SkelliBoi/Humble-Warden/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Just%20a%20Humble%20Warden%200.1.2.wabbajack_d44a9863-039b-4a4a-a557-92f766ab7786",
+      "download": "https://authored-files.wabbajack.org/Just%20a%20Humble%20Warden%200.1.3.wabbajack_9b17ffd7-067a-4d3b-8179-56ce297ac39c",
       "machineURL": "humble_warden",
       "discordURL": "https://discord.gg/UkWFY6QEue"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "00Ka95W6E4k=",
-      "Size": 3945975,
-      "NumberOfArchives": 171,
-      "SizeOfArchives": 29546382106,
-      "NumberOfInstalledFiles": 14036,
-      "SizeOfInstalledFiles": 31868281656
+      "Hash": "ozS+3zdYHbE=",
+      "Size": 3955056,
+      "NumberOfArchives": 176,
+      "SizeOfArchives": 29601993845,
+      "NumberOfInstalledFiles": 14048,
+      "SizeOfInstalledFiles": 31963378303
     },
-    "version": "0.1.2"
+    "version": "0.1.3"
   }
 ]
