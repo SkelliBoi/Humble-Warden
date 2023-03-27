@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 03/27/2023 - 0.1.3
+* Added optional faster combat
+* Updated a few more textures
+* Added universal voices
+
 ## 03/14/2023 - 0.1.2
 * Removed a bunch of redundant bug-fixes
 * Added a few fixes for continuity (ghost elves, Aldous, tower guard)
