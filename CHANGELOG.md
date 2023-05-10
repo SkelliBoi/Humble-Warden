@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 05/10/2023 - 0.2.0
+* Added Thedas Redone, changin the looks of many NPC around Thedas
+* Added a fix for Slim Couldry's quests
+* Added UI visibility upgrade
+* Added Retconned Cullen
+
 ## 03/27/2023 - 0.1.3
 * Added optional faster combat
 * Updated a few more textures
