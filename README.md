@@ -4,8 +4,6 @@ The Just a Humble Warden modlist is my attempt to create a Dragon Age: Origins m
 
 The goal of this modlist is to create a complete, bug-free experience with graphical improvements, quality of life changes, and fixed contuinity errors. The real Ultimate Edition.
 
-THIS MODLIST HAS NOT YET BEEN EXTENSIVELY TESTED! YOU COULD ENCOUNTER BUGS USING IT SO BE AWARE!
-
 The installation of this mod list requires a total of about 82GB (this could likely be reduced in the future as I learn more of the features of Wabberjack). ~24GB for the base game, ~30GB for the modlist, and ~28GB for the downloads. The download itself should take about 40 minutes, depending on your internet speed.
 
 ## Important Mods
@@ -83,7 +81,7 @@ There are some files in the folder called "Game Folder Files" that you need to m
 
 ## Optional Reshade
 
-The installation comes included with SweetFX Reshade presets. This is a relatively old version of Reshade but is still pretty decent. In-game you can switch the Reshade on and oof using the "SCROLL LOCK" button on your keyboard. So, if you don't want Reshade, you can just turn it off that way. 
+The installation comes included with SweetFX Reshade presets. This is a relatively old version of Reshade but is still pretty decent. In-game you can switch the Reshade on and off using the "SCROLL LOCK" button on your keyboard. So, if you don't want Reshade, you can just turn it off that way. 
 
 If you do like Reshade, I would recommend upgrading the Reshade installation to a newer version. You will have to install version 3.4.0 manually in the following way:
 
