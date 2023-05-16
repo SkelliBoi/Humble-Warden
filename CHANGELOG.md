@@ -5,6 +5,7 @@
 * Added Dwarf Proportions
 * Fixed some small issues with the "Thedas Redone" mod
 * Updated some mods
+* Fixed an installation error related to the DAOrigins.exe launcher
 
 ## 05/14/2023 - 0.2.1
 * Fixed some installation issues with the "Thedas Redone" mod
