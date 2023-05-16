@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 05/16/2023 - 0.3.0
+* Added Dragon Age Reborn
+* Added Dwarf Proportions
+* Fixed some small issues with the "Thedas Redone" mod
+* Updated some mods
+
+## 05/14/2023 - 0.2.1
+* Fixed some installation issues with the "Thedas Redone" mod
+
 ## 05/10/2023 - 0.2.0
 * Added Thedas Redone, changin the looks of many NPC around Thedas
 * Added a fix for Slim Couldry's quests
