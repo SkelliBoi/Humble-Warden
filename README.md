@@ -6,7 +6,7 @@ For any support and suggestions, join the Discord here: <https://discord.gg/UkWF
 
 The goal of this modlist is to create a complete, bug-free experience with graphical improvements, quality of life changes, and fixed contuinity errors. The real Ultimate Edition.
 
-The installation of this mod list requires a total of about 82GB (this could likely be reduced in the future as I learn more of the features of Wabberjack). ~24GB for the base game, ~30GB for the modlist, and ~28GB for the downloads. The download itself should take about 40 minutes, depending on your internet speed.
+The installation of this mod list requires a total of about 82GB. ~24GB for the base game, ~30GB for the modlist, and ~28GB for the downloads. The download itself should take about 40 minutes, depending on your internet speed.
 
 ## Important Mods
 
@@ -18,6 +18,7 @@ Here I will note some important mods that change the Gameplay, that you should k
 * Base Chest - There is now a storage chest in your party camp to store items in.
 * Respecification - This mod provides skills for each character to respec the six primary attributes as well as the classes and abilities. The skills for this can be found with the character's other skills.
 * Advanced Tactics - Allows for more advanced tactics options, and adds a skill for your controlled character to be controlled for you, like your party members.
+* Dragon Age Reborn - This mod changes a lot of the abilities in the game, so they are different from the vanilla game you might remember.
 
 ## Install Dragon Age: Origins - Ultimate Edition
 
