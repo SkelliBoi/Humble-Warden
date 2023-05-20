@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 05/20/2023 - 0.3.1
+* Fixed compatibility issues between Dragon Age Reborn and Forgotten Fixes
+* Added 30fps Cutscenes and put them in seperate folders for installation
+* Added a few more bug-fix and QOL mods
+* Added Shortcut through the Deep Roads
+* Replaced the Beyond Ferelden Storage Chest with the new Storage Organization Chests in the base camp
+* Set Alistair to Unique Face Textures for Companions based on the poll
+
 ## 05/16/2023 - 0.3.0
 * Added Dragon Age Reborn
 * Added Dwarf Proportions
