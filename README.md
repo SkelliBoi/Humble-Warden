@@ -6,7 +6,9 @@ For any support and suggestions, join the Discord here: <https://discord.gg/UkWF
 
 The goal of this modlist is to create a complete, bug-free experience with graphical improvements, quality of life changes, and fixed contuinity errors. The real Ultimate Edition.
 
-The installation of this mod list requires a total of about 82GB. ~24GB for the base game, ~30GB for the modlist, and ~28GB for the downloads. The download itself should take about 40 minutes, depending on your internet speed.
+The installation of this mod list requires a total of about 82GB. ~24GB for the base game, ~30GB for the modlist, and ~28GB for the downloads. The download itself should take about 40 minutes, depending on your internet speed. When playing with this modlist you must start a New Game. Continuing on an old save will cause issues and bugs.
+
+Note that the modlist is still in its beta state and might contain bugs. It is constantly being worked on.
 
 ## Important Mods
 
@@ -82,6 +84,12 @@ This final step is just to run a fix for DLC items.
 
 There are some files in the folder called "Game Folder Files" that you need to move to the location of your game installation. Just copy everything inside the folder and place it in your game installation folder (Steam/steamapps/common/Dragon Age Ultimate Edition/). If it asks to overwrite click YES. Make especially sure that the DAOrigins.exe gets replaced.
 
+## Move Files from "Cutscenes 30fps" or "Cutscenes 60fps"
+
+You have the option of upgrading the cutscenes in the game to 1080p with either 30fps or 60fps. Obviously the 60fps cutscenes are of better quality but for some players the 60fps cutscenes play in slow-motion in which case you should use the 30fps versions.
+
+For the installation of the cutscenes just copy everything inside the folder and place it in your game installation folder (Steam/steamapps/common/Dragon Age Ultimate Edition/). If it asks to overwrite click YES.
+
 ## Optional Reshade
 
 The installation comes included with SweetFX Reshade presets. This is a relatively old version of Reshade but is still pretty decent. In-game you can switch the Reshade on and off using the "SCROLL LOCK" button on your keyboard. So, if you don't want Reshade, you can just turn it off that way. 
@@ -105,6 +113,8 @@ Reshade can be quite demanding so if the game starts lagging, I would recommend 
 ## Starting the game
 
 Once all of the previous steps are done, go to the dropdown list at the top right and select "Dragon Age: Origins" to start the game. The game must always be run through here, not through Steam.
+
+Make sure to start a new game if you're playing this modlist for the first time.
 
 While playing I recommend saving a lot! I can not guarantee crashes won't happen.
 
