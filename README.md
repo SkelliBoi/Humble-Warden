@@ -6,7 +6,7 @@ For any support and suggestions, join the Discord here: <https://discord.gg/UkWF
 
 The goal of this modlist is to create a complete, bug-free experience with graphical improvements, quality of life changes, and fixed contuinity errors. The real Ultimate Edition.
 
-The installation of this mod list requires a total of about 82GB. ~24GB for the base game, ~30GB for the modlist, and ~28GB for the downloads. The download itself should take about 40 minutes, depending on your internet speed. When playing with this modlist you must start a New Game. Continuing on an old save will cause issues and bugs.
+The installation of this mod list requires a total of about 68GB. ~24GB for the base game, ~23GB for the modlist, and ~21GB for the downloads. When playing with this modlist you must start a New Game. Continuing on an old save will cause issues and bugs.
 
 Note that the modlist is still in its beta state and might contain bugs. It is constantly being worked on.
 
