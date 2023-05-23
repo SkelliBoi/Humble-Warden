@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## 05/23/2023 - 0.4.0
+* Changed cutscenes from 4K to 1080p for a smaller download size
+* Added Herbs and Ores
+* Added Mystery of the Missing Kaddis and DAI Barkspawn
+* Added Morrigan -Inquisition Edition- replacing Moriggan DAI Concept Edition
+* Added Gift Guides
+* Added Two Spec Sten
+* Added Additional Adjustments
+* Added a few more character customization options
+* Updated a few mods
+
 ## 05/20/2023 - 0.3.1
 * Fixed compatibility issues between Dragon Age Reborn and Forgotten Fixes
 * Added 30fps Cutscenes and put them in seperate folders for installation
