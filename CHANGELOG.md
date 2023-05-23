@@ -10,6 +10,7 @@
 * Added Additional Adjustments
 * Added a few more character customization options
 * Updated a few mods
+* Optional mods are now disabled by default
 
 ## 05/20/2023 - 0.3.1
 * Fixed compatibility issues between Dragon Age Reborn and Forgotten Fixes
