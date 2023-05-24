@@ -110,7 +110,7 @@ You can of course also install the newest version of Reshade and use your own pr
 
 Reshade can be quite demanding so if the game starts lagging, I would recommend turning it off.
 
-## Starting the game
+## Starting the Game
 
 Once all of the previous steps are done, go to the dropdown list at the top right and select "Dragon Age: Origins" to start the game. The game must always be run through here, not through Steam.
 
@@ -121,3 +121,7 @@ While playing I recommend saving a lot! I can not guarantee crashes won't happen
 ## Optional Mods
 
 There are some optional mods that you can turn off if you don't want them (Skip the Fade, Faster Movement, etc). Just uncheck the checkmark next to them to turn them off.
+
+## Updating the Modlist Installation
+
+When updating the modlist installation you can just run the Wabbajack installation over the old one and it will update only the files that are new and changed. You will have to do the 'Move Files from "Game Folder Files"' step again in case some files in there have changed.
