@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## 05/26/2023 - 0.4.2:
+* Fixed some issues with Thedas Redone causing missing hair
+* Removed broken hair options
+* Added Anto Hairstyles
+* Added The Phoenix Armory
+
+## 05/23/2023 - 0.4.1:
+* A quick hotfix, fixing some compatibility issues between Dragon Age Reborn and Dain's Fixes
+* Removed Two Spec Sten (is already part of Dain's Fixes)
+
 ## 05/23/2023 - 0.4.0
 * Changed cutscenes from 4K to 1080p for a smaller download size
 * Added Herbs and Ores
