@@ -5,6 +5,7 @@
 * Removed broken hair options
 * Added Anto Hairstyles
 * Added The Phoenix Armory
+* Added Leliana Appearance Overhaul according to poll
 
 ## 05/23/2023 - 0.4.1:
 * A quick hotfix, fixing some compatibility issues between Dragon Age Reborn and Dain's Fixes
