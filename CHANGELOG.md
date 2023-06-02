@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## 06/02/2023 - 0.4.4:
+* Added several Male character presets by Bodge72
+* Added more fixes from the Pet Peeves Fix Patch
+* Added Extended Dog Talents
+* Added A year with Sten according to the poll
+* Added Awakening cutscene fixes
+* Added Awakening Awakening Lore-Friendly Epilogue Rewrite
+* Added Awakening Rune Fixes
+* Fixed some mod discrepancies
+* Created a manual fix for missing Reborn ability descriptions in the Awakening DLC
+* Updated several mods
+* Fixed Duncan's Armor
+
+## 05/28/2023 - 0.4.3:
+* Removed Real Pigment, was causing non-matching skin tints
+* Updated a few mods
+
 ## 05/26/2023 - 0.4.2:
 * Fixed some issues with Thedas Redone causing missing hair
 * Removed broken hair options
