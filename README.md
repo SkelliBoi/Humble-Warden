@@ -124,4 +124,4 @@ There are some optional mods that you can turn off if you don't want them (Skip 
 
 ## Updating the Modlist Installation
 
-When updating the modlist installation you can just run the Wabbajack installation over the old one and it will update only the files that are new and changed. You will have to do the 'Move Files from "Game Folder Files"' step again in case some files in there have changed.
+When updating the modlist installation you can just run the Wabbajack installation over the old one and it will update only the files that are new and changed. You will have to do the 'Move Files from "Game Folder Files"' and 'Install DAZIPs' steps again in case some files in there have changed.
