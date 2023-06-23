@@ -4,7 +4,7 @@ The Just a Humble Warden modlist is my attempt to create a Dragon Age: Origins m
 
 For any support and suggestions, join the Discord here: <https://discord.gg/UkWFY6QEue>
 
-The goal of this modlist is to create a complete, bug-free experience with graphical improvements, quality of life changes, and fixed contuinity errors. The real Ultimate Edition.
+The goal of this modlist is to create a complete, bug-free experience with graphical improvements, quality of life changes, and fixed continuity errors. The real Ultimate Edition.
 
 The installation of this mod list requires a total of about 68GB. ~24GB for the base game, ~23GB for the modlist, and ~21GB for the downloads. When playing with this modlist you must start a New Game. Continuing on an old save will cause issues and bugs.
 
@@ -26,9 +26,9 @@ Here I will note some important mods that change the Gameplay, that you should k
 
 You will need a clean installation of the game.
 
-1. First, uninstall the game from Steam. Make sure that your installation folder is completely empty. Delete any files still left in the install folder ("Steam/steamapps/common/Dragon Age Ultimate Edition"). Also delete any files inside your documents folder for the game (Documents/BioWare/Dragon Age/). SAVE THE CURRENT FILES IN THERE SOMEWHERE ELSE AS A BACKUP IF YOU DON'T WANT TO LOSE THOSE SAVES!
+1. First, uninstall the game from Steam. Make sure that your installation folder is completely empty. Delete any files still left in the install folder ("Steam/steamapps/common/Dragon Age Ultimate Edition"). Also, delete any files inside your documents folder for the game (Documents/BioWare/Dragon Age/). SAVE THE CURRENT FILES IN THERE SOMEWHERE ELSE AS A BACKUP IF YOU DON'T WANT TO LOSE THOSE SAVES!
 
-2. Install Dragon Age: Origins - Ultimate Edition. You will need the most recent version of the game, with all of the DLC's available.
+2. Install Dragon Age: Origins - Ultimate Edition. You will need the most recent version of the game, with all of the DLCs available.
 
 3. Run the game once, and choose "Configure". In the Video Settings, choose your settings (16:9, 1920x1080 recommended). 
 
@@ -46,7 +46,7 @@ Now, you must install the modlist using Wabbajack.
 
 3. If using "Browse Modlists" search for "Just a Humble Warden" and click on the little down arrow to download the list, and once that's done, click on the play button. If using "Install From Disk" just select the file from your computer.
 
-4. As the installation folder, choose the empty folder that was created in step 2.
+4. As the installation folder, choose the empty folder that was created in Step 2.
 
 5. Downloads will be auto-selected for you, but you can change that location if you want. 
 
@@ -54,7 +54,7 @@ Now, you must install the modlist using Wabbajack.
 
 It's possible that at some point the installation will give an error. Often times just trying it again will solve the problem.
 
-To check wether the installation was successful, look for the "ModOrganizer.exe" file inside the installation folder and open it. If it has a Dark theme, the installation should be a success.
+To check whether the installation was successful, look for the "ModOrganizer.exe" file inside the installation folder and open it. If it has a Dark theme, the installation should be a success.
 
 ## Install DAZIPs
 
@@ -68,9 +68,9 @@ Unfortunately, not everything can be done automatically using Wabbajack, so a fe
 
 4. Select all of the DAZIPs within DAUpdater, and choose "Install Selected".
 
-5. Wait for all of them to read "installed". Afterwards, you can close the program.
+5. Wait for all of them to read "installed". Afterward, you can close the program.
 
-For me it works if I select all files at once, but if it doesn't you might need to do it in steps.
+For me, it works if I select all files at once, but if it doesn't you might need to do it in steps.
 
 ## Run FIX_DLC
 
@@ -78,7 +78,7 @@ This final step is just to run a fix for DLC items.
 
 1. Inside ModOrganizer, go to the dropdown list at the top right and select "FIX_DLC". Then press the Run button next to it. This should open the command prompt.
 
-2. It will ask you to press any button. Do so (spacebar is fine).
+2. It will ask you to press any button. Do so (the spacebar is fine).
 
 ## Move Files from "Game Folder Files"
 
@@ -86,7 +86,7 @@ There are some files in the folder called "Game Folder Files" that you need to m
 
 ## Move Files from "Cutscenes 30fps" or "Cutscenes 60fps"
 
-You have the option of upgrading the cutscenes in the game to 1080p with either 30fps or 60fps. Obviously the 60fps cutscenes are of better quality but for some players the 60fps cutscenes play in slow-motion in which case you should use the 30fps versions.
+You have the option of upgrading the cutscenes in the game to 1080p with either 30fps or 60fps. Obviously, the 60fps cutscenes are of better quality but for some players, the 60fps cutscenes play in slow-motion in which case you should use the 30fps versions.
 
 For the installation of the cutscenes just copy everything inside the folder and place it in your game installation folder (Steam/steamapps/common/Dragon Age Ultimate Edition/). If it asks to overwrite click YES.
 
