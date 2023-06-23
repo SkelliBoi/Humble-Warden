@@ -1,7 +1,24 @@
 # CHANGELOG
 
+## 06/23/2023 - 0.5.0:
+* Removed "50 tactic slots", which was causing Companion tactics to not function properly
+* Removed "Creature Merchants"
+* Removed "Circles Be Gone" (included in other mod)
+* Removed "Awakening Banter Fix" (included in other mod)
+* Added "Grey Warden Recruit Armor"
+* Added "Happy Owen Sells Far Song"
+* Added "Cailan's Body - More Dialogue Options"
+* Added "Awakening Advisor Gear Edits"
+* Added "Awakening Party Barks"
+* Added "Expanded Soundsets"
+* Added "Casual Armors"
+* Added "Witcher 2 Hairs"
+* Added "Awakening Banter Fixes"
+* Replaced "Zevran Appearance Overhaul" with Zevran from "Sacred Ashes Team and more"
+* Updated several mods
+
 ## 06/02/2023 - 0.4.4:
-* Added several Male character presets by Bodge72
+* Added several Male characters presets by Bodge72
 * Added more fixes from the Pet Peeves Fix Patch
 * Added Extended Dog Talents
 * Added A year with Sten according to the poll
@@ -14,7 +31,7 @@
 * Fixed Duncan's Armor
 
 ## 05/28/2023 - 0.4.3:
-* Removed Real Pigment, was causing non-matching skin tints
+* Removed Real Pigment, which was causing non-matching skin tints
 * Updated a few mods
 
 ## 05/26/2023 - 0.4.2:
@@ -42,7 +59,7 @@
 
 ## 05/20/2023 - 0.3.1
 * Fixed compatibility issues between Dragon Age Reborn and Forgotten Fixes
-* Added 30fps Cutscenes and put them in seperate folders for installation
+* Added 30fps Cutscenes and put them in separate folders for installation
 * Added a few more bug-fix and QOL mods
 * Added Shortcut through the Deep Roads
 * Replaced the Beyond Ferelden Storage Chest with the new Storage Organization Chests in the base camp
@@ -59,7 +76,7 @@
 * Fixed some installation issues with the "Thedas Redone" mod
 
 ## 05/10/2023 - 0.2.0
-* Added Thedas Redone, changin the looks of many NPC around Thedas
+* Added Thedas Redone, changing the looks of many NPC around Thedas
 * Added a fix for Slim Couldry's quests
 * Added UI visibility upgrade
 * Added Retconned Cullen
@@ -72,7 +89,7 @@
 ## 03/14/2023 - 0.1.2
 * Removed a bunch of redundant bug-fixes
 * Added a few fixes for continuity (ghost elves, Aldous, tower guard)
-* Updated the look of Sten, Morrigan and Leliana
+* Updated the look of Sten, Morrigan, and Leliana
 * Added more character customization options
 * Changed the visuals of bows to have strings
 * Removed detailed tooltips
