@@ -46,13 +46,14 @@ Now, you must install the modlist using Wabbajack.
 
 3. If using "Browse Modlists" search for "Just a Humble Warden" and click on the little down arrow to download the list, and once that's done, click on the play button. If using "Install From Disk" just select the file from your computer.
 
-4. As the installation folder, choose the empty folder that was created in Step 2.
+4. For the installation folder, choose the empty folder that was created in Step 2.
 
 5. Downloads will be auto-selected for you, but you can change that location if you want. 
 
 6. Click the "play" button to install the modlist.
 
 It's possible that at some point the installation will give an error. Often times just trying it again will solve the problem.
+If some file downloads repeatedly give an error, you might have to download the file manually and put it in the downloads folder.
 
 To check whether the installation was successful, look for the "ModOrganizer.exe" file inside the installation folder and open it. If it has a Dark theme, the installation should be a success.
 
@@ -70,7 +71,7 @@ Unfortunately, not everything can be done automatically using Wabbajack, so a fe
 
 5. Wait for all of them to read "installed". Afterward, you can close the program.
 
-For me, it works if I select all files at once, but if it doesn't you might need to do it in steps.
+For me, it works if I select all files at once, but if it doesn't you might need to do it in smaller steps, or even individually.
 
 ## Run FIX_DLC
 
