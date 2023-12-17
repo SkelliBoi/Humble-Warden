@@ -1,5 +1,44 @@
 # CHANGELOG
 
+## 12/17/2023 - 0.6.0:
+* Updated Mod Organizer to version 2.5.0
+* Replaced "Oghren Appearance Overhaul" with Oghren from "Unique Face Textures for Companions"
+* Replaced "Theta HD" with "Theta HD Fix"
+* Replaced "DLC Item Integration" with "Immersive DLC Integration"
+* Replaced "Skip Ostagar" with "Skip the Prelude"
+* Added "Yet Another HD Mod"
+* Added "Equipment Edits and Tweaks"
+* Added "Grey Wardens of Ferelden Update"
+* Added "Dwarven Loincloth Fashion"
+* Added "No Automatic Deactivation"
+* Added "Talk Elfy to Me"
+* Added "Statues and Totems - Higher resolution textures"
+* Added "Mage Equipment Update"
+* Added "Blighted Warden Armor of the Sentinel"
+* Added "Dalish Keeper Robes"
+* Added "Tevinter Mage Robes Retexture"
+* Added "Male Circle Robe Replacers" and "Female Circle Robe Replacers"
+* Added "Bethany Sleeve Retexture"
+* Added "No Mama Cousland Twin Update"
+* Added "Nathaniel Howe armour set"
+* Added "Zevran Arainai Update"
+* Added "Pants for Women"
+* Added "Admiral's Coat"
+* Added "Shan's Miscellany"
+* Added "Viva la Orlais"
+* Added "Kossith Add-On"
+* Added "Crow Assassin's Armor for Zevran"
+* Added "DLC Tweaks and Cameos"
+* Added "Bugfix for Dall's Rescaled Weapons"
+* Added "Sigrun Equipment Edits and Tweaks"
+* Added "Daughters of the Stone"
+* Added "Wood Mage Staff"
+* Added "Tevinter Nights"
+* Added "Loincloth Fashion"
+* Removed "Ogre HD", "Lady of the forest HD", "Desire Demon HD", "Drake and Dragonling Recolor" (included in other mod)
+* Updated several mods
+* Fixed Velanna Visual Bug
+
 ## 06/23/2023 - 0.5.0:
 * Removed "50 tactic slots", which was causing Companion tactics to not function properly
 * Removed "Creature Merchants"
