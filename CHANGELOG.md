@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 01/06/2024 - 0.6.1:
+* Fixed issues with the download of mods from ModDB
+* Fixed issues with the download of "Tucked Hair"
+* Fixed issues with the download of the fixed DAOrigins.exe
+* Moved "Autoloot Kills" and "No Ground Rings" to Optional mods
+
 ## 12/17/2023 - 0.6.0:
 * Updated Mod Organizer to version 2.5.0
 * Replaced "Oghren Appearance Overhaul" with Oghren from "Unique Face Textures for Companions"
